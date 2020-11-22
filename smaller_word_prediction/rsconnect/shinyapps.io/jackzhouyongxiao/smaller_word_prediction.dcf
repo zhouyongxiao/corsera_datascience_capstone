@@ -1,0 +1,12 @@
+name: smaller_word_prediction
+title: smaller_word_prediction
+username:
+account: jackzhouyongxiao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3283790
+bundleId: 3892017
+url: https://jackzhouyongxiao.shinyapps.io/smaller_word_prediction/
+when: 1606077117.44003
+asMultiple: FALSE
+asStatic: FALSE
